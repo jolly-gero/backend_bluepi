@@ -10,6 +10,7 @@
 *env-asset-location
 *.vscode
 test*.py
+.gitignore
 
 # C extensions
 *.so
